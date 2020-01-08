@@ -1,0 +1,7 @@
+<apiservicebroker>
+   <brokeruri>tcp://localhost:61626?wireFormat=openwire&transport.useAsyncSend=true</brokeruri>
+   <clientqueue>ZINIX.SERVICE.CLIENT</clientqueue>
+   <serverqueue>ZINIX.SERVICE.SERVER</serverqueue>
+   <loggerproperties>brokerclientlog.properties</loggerproperties>
+   <loggername>TestGameClient</loggername>
+</apiservicebroker>

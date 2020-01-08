@@ -1,0 +1,7 @@
+<apiservicebroker>
+   <brokeruri>BertyBroker</brokeruri>
+   <clientqueue>QueueingClient</clientqueue>
+   <serverqueue>ServingServer</serverqueue>
+   <loggerproperties>LoggerPropertiesProperties</loggerproperties>
+   <loggername>Loggernamename</loggername>
+</apiservicebroker>

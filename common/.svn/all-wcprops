@@ -1,0 +1,383 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common
+END
+ApiCommandRegisterGameInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandRegisterGameInstance.h
+END
+Config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/Config.cpp
+END
+ApiCommandQuerySystemTotal.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandQuerySystemTotal.cpp
+END
+ApiCommandMakeSystemPayment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandMakeSystemPayment.cpp
+END
+ThreadSafeQueue.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ThreadSafeQueue.h
+END
+ResponseWithNoData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ResponseWithNoData.cpp
+END
+MQProducer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQProducer.cpp
+END
+ServiceBrokerResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ServiceBrokerResponse.cpp
+END
+StubProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/StubProducer.h
+END
+GameMessageProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/GameMessageProducer.h
+END
+SglExceptions.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/SglExceptions.h
+END
+GetUserDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/GetUserDataResponse.h
+END
+MakeSystemPaymentResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MakeSystemPaymentResponse.h
+END
+ApiCommandGetUserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandGetUserData.h
+END
+BeginUserSessionResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/BeginUserSessionResponse.cpp
+END
+SetUserDataResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/SetUserDataResponse.h
+END
+TagNotFoundException.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/TagNotFoundException.h
+END
+StubProducer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/StubProducer.cpp
+END
+RegisterGameInstanceResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/RegisterGameInstanceResponse.cpp
+END
+ApiCommandSetUserData.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandSetUserData.h
+END
+GetUserDataResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/GetUserDataResponse.cpp
+END
+ServiceBrokerResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ServiceBrokerResponse.h
+END
+MakePaymentResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MakePaymentResponse.cpp
+END
+MQConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQConsumer.h
+END
+MakeSystemPaymentResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MakeSystemPaymentResponse.cpp
+END
+ApiCommandGetUserData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandGetUserData.cpp
+END
+ApiCommandEndUserSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandEndUserSession.cpp
+END
+SetUserDataResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/SetUserDataResponse.cpp
+END
+ApiCommandMakePayment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandMakePayment.cpp
+END
+TagNotFoundException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/TagNotFoundException.cpp
+END
+ApiCommand.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommand.cpp
+END
+XmlIterator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/XmlIterator.cpp
+END
+MQFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQFactory.h
+END
+ApiCommandDeregisterGameInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandDeregisterGameInstance.h
+END
+BeginUserSessionResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/BeginUserSessionResponse.h
+END
+ApiCommandSetUserData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandSetUserData.cpp
+END
+ApiCommandBeginUserSession.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandBeginUserSession.cpp
+END
+MQMessage.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQMessage.cpp
+END
+ApiCommandWithGameSessionId.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandWithGameSessionId.h
+END
+RegisterGameInstanceResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/RegisterGameInstanceResponse.h
+END
+EndUserSessionResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/EndUserSessionResponse.cpp
+END
+MQConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQConsumer.cpp
+END
+ProducerConsumerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ProducerConsumerFactory.h
+END
+ApiCommandRegisterGameInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandRegisterGameInstance.cpp
+END
+MakePaymentResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MakePaymentResponse.h
+END
+DeregisterGameInstanceResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/DeregisterGameInstanceResponse.h
+END
+MQFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQFactory.cpp
+END
+ApiCommandDeregisterGameInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandDeregisterGameInstance.cpp
+END
+ApiCommandEndUserSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandEndUserSession.h
+END
+ApiCommandMakePayment.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandMakePayment.h
+END
+Config.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/Config.h
+END
+ApiCommandQuerySystemTotal.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandQuerySystemTotal.h
+END
+ApiCommand.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommand.h
+END
+ApiCommandMakeSystemPayment.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandMakeSystemPayment.h
+END
+XmlIterator.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/XmlIterator.h
+END
+ApiCommandWithGameSessionId.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandWithGameSessionId.cpp
+END
+ApiCommandBeginUserSession.h
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ApiCommandBeginUserSession.h
+END
+ResponseWithNoData.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ResponseWithNoData.h
+END
+MQProducer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQProducer.h
+END
+ProducerConsumerFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/ProducerConsumerFactory.cpp
+END
+MQMessage.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/MQMessage.h
+END
+DeregisterGameInstanceResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/DeregisterGameInstanceResponse.cpp
+END
+EndUserSessionResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/common/EndUserSessionResponse.h
+END

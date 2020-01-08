@@ -1,0 +1,113 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test
+END
+StubMessageConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubMessageConsumer.cpp
+END
+StubConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubConsumer.h
+END
+StubLedger.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubLedger.cpp
+END
+StubMessageConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubMessageConsumer.h
+END
+StubKYR.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubKYR.cpp
+END
+StubLedger.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubLedger.h
+END
+StubKYR.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubKYR.h
+END
+StubTariff.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubTariff.cpp
+END
+StubPersistentStore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubPersistentStore.cpp
+END
+StubTariff.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubTariff.h
+END
+StubPersistentStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubPersistentStore.h
+END
+SyncDelayedReply.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/SyncDelayedReply.cpp
+END
+StubProducerConsumerFactory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubProducerConsumerFactory.cpp
+END
+SyncDelayedReply.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/SyncDelayedReply.h
+END
+StubConsumerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubConsumerFactory.h
+END
+StubConsumer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubConsumer.cpp
+END
+StubProducerConsumerFactory.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubProducerConsumerFactory.h
+END
+StubApiBroker.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/test/StubApiBroker.xml
+END

@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside
+END
+GameMessageConsumer.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/GameMessageConsumer.h
+END
+GameClientImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/GameClientImpl.h
+END
+SglStackUnknownMessageIdException.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SglStackUnknownMessageIdException.h
+END
+ApiCommandGetSystemData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/ApiCommandGetSystemData.cpp
+END
+MessageIdGenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/MessageIdGenerator.cpp
+END
+SglStackDuplicateMessageIdException.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SglStackDuplicateMessageIdException.h
+END
+ApiCommandGetSystemData.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/ApiCommandGetSystemData.h
+END
+MessageIdGenerator.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/MessageIdGenerator.h
+END
+MessageStack.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/MessageStack.h
+END
+ActiveMqConsumerHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/ActiveMqConsumerHandler.h
+END
+SkillGameServiceClient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SkillGameServiceClient.cpp
+END
+Queue.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/Queue.h
+END
+GameClientImpl.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/GameClientImpl.cpp
+END
+SglUninitialisedException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SglUninitialisedException.h
+END
+SglGameApiException.h
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SglGameApiException.h
+END
+ApiCallbackDefs.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/ApiCallbackDefs.h
+END
+SkillGameServiceClient.h
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/gameside/SkillGameServiceClient.h
+END

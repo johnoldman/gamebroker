@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare
+END
+testclient.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/testclient.cpp
+END
+messagehandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/messagehandler.cpp
+END
+testclient.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/testclient.hpp
+END
+testserver.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/testserver.cpp
+END
+messagehandler.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/messagehandler.hpp
+END
+messageidgenerator.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/messageidgenerator.cpp
+END
+testserver.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/testserver.hpp
+END
+messageidgenerator.hpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/spare/messageidgenerator.hpp
+END

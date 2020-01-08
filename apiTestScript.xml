@@ -1,0 +1,105 @@
+<apitestscript>
+
+  <mq:envelope>
+    <command>CONFIGURE</command>
+    <parameters>
+      <autoGameSessionId>true</autoGameSessionId>
+      <autoMessageId>true</autoMessageId>
+      <stopOnApiError>true</stopOnApiError>
+      <stopOnReplyError>true</stopOnReplyError>
+    </parameters>
+  </mq:envelope>
+  
+  <mq:envelope>
+    <command>RGI</command>
+    <parameters>
+      <gameName>gameName</gameName>
+      <gameType>gameType</gameType>
+      <gameSessionId>gameSessionId</gameSessionId>
+      <gameTariffId>gameTariffId</gameTariffId>
+    </parameters>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>BUS</command>
+    <parameters>
+      <messageId>messageId</messageId>
+      <gameSessionId>gameSessionId</gameSessionId>
+      <userId>27</userId>
+      <userSessionId>user27game</userSessionId>
+      <tariffId>fred</tariffId>
+      <gameCost>0</gameCost>
+      <gameFloorLimit>8005</gameFloorLimit>
+    </parameters>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>BUS</command>
+    <parameters>
+      <messageId>messageId</messageId>
+      <gameSessionId>gameSessionId</gameSessionId>
+      <userId>28</userId>
+      <userSessionId>user28game</userSessionId>
+      <tariffId>fred</tariffId>
+      <gameCost>0</gameCost>
+      <gameFloorLimit>8005</gameFloorLimit>
+    </parameters>
+  </mq:envelope>
+  
+  <mq:envelope><command>REPEAT_NEXT_COMMAND</command><parameters><repeats>800</repeats></parameters></mq:envelope> 
+  <mq:envelope><command>MPY</command><parameters><fromUserSessionId>user28game</fromUserSessionId><toUserSessionId>user27game</toUserSessionId><amount>1</amount><eventCode>SHOT</eventCode></parameters></mq:envelope>
+
+  <mq:envelope> <command>REPEAT_NEXT_COMMAND</command> <parameters> <repeats>1600</repeats> </parameters> </mq:envelope> 
+  <mq:envelope> <command>MPY</command> <parameters> <fromUserSessionId>user27game</fromUserSessionId> <toUserSessionId>user28game</toUserSessionId> <amount>1</amount> <eventCode>SHOT</eventCode> </parameters> </mq:envelope>
+
+  <mq:envelope> <command>REPEAT_NEXT_COMMAND</command> <parameters> <repeats>800</repeats> </parameters> </mq:envelope> 
+  <mq:envelope> <command>MPY</command> <parameters> <fromUserSessionId>user28game</fromUserSessionId> <toUserSessionId>user27game</toUserSessionId> <amount>1</amount> <eventCode>SHOT</eventCode> </parameters> </mq:envelope>
+
+  <mq:envelope>
+    <command>EUS</command>
+    <parameters>
+      <messageId>messageId</messageId>
+      <gameSessionId>gameSessionId</gameSessionId>
+      <userSessionId>user28game</userSessionId>
+    </parameters>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>EUS</command>
+    <parameters>
+      <messageId>messageId</messageId>
+      <gameSessionId>gameSessionId</gameSessionId>
+      <userSessionId>user27game</userSessionId>
+    </parameters>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>DGI</command>
+    <parameters>
+      <gameSessionId>gameSessionId</gameSessionId>
+    </parameters>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>END</command>
+  </mq:envelope>
+
+  <mq:envelope>
+    <command>WAIT</command>
+    <parameters><seconds>20</seconds></parameters>
+  </mq:envelope>
+  
+</apitestscript>
+
+
+<!--
+   WARNING: Don't put this at the beginning of this file. Code will not ignore comments:
+   RGI = register game instance (AUTO generates a unique game session)
+   DGI = deregister game instance
+   BUS = begin user session
+   EUS = end user session
+   MPY = make payment
+-->
+
+
+

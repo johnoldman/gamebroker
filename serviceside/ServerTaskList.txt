@@ -1,0 +1,40 @@
+registerGameInstance - picks a service broker and runs all game messages on same broker
+
+deRegisterGameInstance - tidies up game instance, destroys local purses (must be empty)
+
+failover must restore game instance from backing store when a 'surprise' message received.
+
+entire transaction log with message ids must be kept, so that any message can be replayed
+ and original response sent. Parameters need to be kept too so that if a duplicate message
+  occurs with different parameters then an error can be sent.
+
+If a message is un-processable, it should be moved to a dead letter queue to prevent an infinite
+message loop where the same message is processed repeatedly.
+
+get/set user data methods are trivial - simply forwarded to web service with same name.
+
+beginUserSession() - makes a purse from the ledger with the amount specified. Something
+needs to talk to KYR to obtain the assets used in this game session.
+
+endUserSession() - closes purse, transfers assets back to wallet along with entire transaction
+log of what has happened to this purse.
+
+makePayment(p1, p2, amount) - moved asset from Purse p1 to Purse p2
+
+makeSystemPayment(p1, type, name, amount)
+querySystemTotal(type, name)
+
+<type> is <system> or <local> - local purse can be created on-the-fly as they all start at zero.
+                              - system purses (really wallets) have to exist.
+
+Maybe these 2 not for first release.
+
+
+Task List:
+----------
+
+Purse creation and persistence (ledger and maybe KYR)
+MQ handling
+Transference of purse total to ledger (wallet)
+dead letter queue and error logging
+get/set user data

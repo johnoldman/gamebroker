@@ -1,0 +1,32 @@
+<project name="purse" default="mq">
+   <property name="activemqdir" value="activemq-cpp-2.1.1"/>
+   <dirname property="project.dir" file="./build.xml"/>
+   <target name="mq">
+      <exec dir="${activemqdir}" executable="./configure">
+          <arg value="CXXFLAGS=-g"/>
+          <arg value="--prefix=${basedir}/activemq"/>
+      </exec>
+      <!--exec dir="${activemqdir}" executable="make">
+          <arg value="clean"/>
+      </exec-->
+      <exec dir="${activemqdir}" executable="make">
+          <arg value="install"/>
+      </exec>
+   </target>
+   <target name="cppgen">
+        <exec executable="wsdl2h" failonerror="true">
+           <arg value="-o"/>
+           <arg value="wsdl/ledger.h"/>
+           <arg value="../wsdl/LedgerService.wsdl"/>
+        </exec>
+        <exec executable="soapcpp2" dir="wsdl" failonerror="true">
+           <arg value="-1"/>
+           <arg value="-iC"/>
+           <arg value="-I"/>
+           <arg value=".."/>
+           <arg value="-p"/>
+           <arg value="ledger"/>
+           <arg value="ledger.h"/>
+        </exec>
+    </target>
+</project>

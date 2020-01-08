@@ -1,0 +1,21 @@
+<purseservicebroker>
+   <brokeruri>tcp://localhost:61616?wireFormat=openwire&transport.useAsyncSend=true</brokeruri>
+   <serverqueue>PURSE.SERVICE.SERVER</serverqueue>
+   <clientqueue>PURSE.SERVICE.CLIENT</clientqueue>
+   <loggerproperties>brokerlog.properties</loggerproperties>
+   <loggername>PurseServiceBroker</loggername>
+   <pursedb>
+      <hostname>localhost</hostname>
+      <dbname>pursedb</dbname>
+      <username>root</username>
+      <password>password</password>
+   </pursedb>
+   <ledgeruri>http://localhost:8080/axis2/services/LedgerService</ledgeruri>
+   <kyrservice>
+      <uri>http://localhost:8080/axis2/services/TariffDao</uri>
+      <localport>9090</localport>
+      <polltime>10</polltime>
+      <timeout>40</timeout>
+   </kyrservice>
+   <userserviceuri>http://test3.mygameskills.com:8090/tunnel-web/axis/Portal_SglUserService</userserviceuri>
+</purseservicebroker>

@@ -1,0 +1,9 @@
+Tasks Left TODO:
+
+1	Game Instance Persistence (self + list of Purses) (inc load)
+3	Purse (complete with Persistence) - self + txn log?
+1.5	KYR Integration (asset conversion)
+2	Ledger Integration
+0	Transaction Log (persistent storage of messages so that they can be replayed if repeated)
+1	Database layer (mySQL++ hiding)
+1	Failover (spot weird message and load data(game instances) from persistent store - only if first message is weird)

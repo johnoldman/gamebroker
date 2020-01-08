@@ -1,0 +1,38 @@
+8
+
+dir
+14
+http://henry/repos/sgl/trunk/Cpp/Purse/cversion/gsoap
+http://henry/repos
+
+
+
+2008-04-14T21:20:36.076189Z
+14
+
+
+
+svn:special svn:externals svn:needs-lock
+
+stdsoap2.cpp
+file
+
+
+
+
+2007-12-12T11:57:57.000000Z
+c5a219c58afeaeccef795e90ea056ae8
+2008-04-14T21:20:36.076189Z
+14
+
+stdsoap2.h
+file
+
+
+
+
+2007-12-12T11:57:57.000000Z
+9eeccb888addc5e7e24606c54bdc3a52
+2008-04-14T21:20:36.076189Z
+14
+

@@ -1,0 +1,293 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside
+END
+Purse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Purse.cpp
+END
+MySqlPurseDb.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/MySqlPurseDb.h
+END
+TODO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/TODO.txt
+END
+GameInstance.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/GameInstance.h
+END
+Ledger.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Ledger.h
+END
+Amount.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Amount.h
+END
+GameData.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/GameData.h
+END
+PurseDb.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseDb.h
+END
+ServiceBroker.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/ServiceBroker.h
+END
+TransactionImpl.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/TransactionImpl.h
+END
+Payment.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Payment.cpp
+END
+AssetData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/AssetData.h
+END
+PersistentStore.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PersistentStore.h
+END
+PaymentTransaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PaymentTransaction.cpp
+END
+LedgerService.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/LedgerService.cpp
+END
+Asset.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Asset.h
+END
+DuplicateUserException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/DuplicateUserException.cpp
+END
+MySqlPurseDb.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/MySqlPurseDb.cpp
+END
+Transaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Transaction.h
+END
+MessageAndResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/MessageAndResponse.h
+END
+TransactionLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/TransactionLog.h
+END
+PurseData.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseData.h
+END
+GameInstance.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/GameInstance.cpp
+END
+GameSessionId.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/GameSessionId.h
+END
+PurseNotFoundException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseNotFoundException.h
+END
+ServerConfig.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/ServerConfig.h
+END
+NotEnoughMoneyException.h
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/NotEnoughMoneyException.h
+END
+DuplicateSessionException.h
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/DuplicateSessionException.h
+END
+Purse.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Purse.h
+END
+UserSessionId.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/UserSessionId.h
+END
+ServiceBroker.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/ServiceBroker.cpp
+END
+AssetData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/AssetData.cpp
+END
+Asset.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Asset.cpp
+END
+PurseId.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseId.h
+END
+Payment.h
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Payment.h
+END
+ServerTaskList.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/ServerTaskList.txt
+END
+Transaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/Transaction.cpp
+END
+AssetClassId.h
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/AssetClassId.h
+END
+PaymentTransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PaymentTransaction.h
+END
+LedgerService.h
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/LedgerService.h
+END
+PurseData.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseData.cpp
+END
+GameSessionId.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/GameSessionId.cpp
+END
+PurseNotFoundException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/PurseNotFoundException.cpp
+END
+KYRService.h
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/KYRService.h
+END
+ServerConfig.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/ServerConfig.cpp
+END
+NotEnoughMoneyException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/NotEnoughMoneyException.cpp
+END
+DuplicateSessionException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/DuplicateSessionException.cpp
+END
+DuplicateUserException.h
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/repos/!svn/ver/14/sgl/trunk/Cpp/Purse/cversion/serviceside/DuplicateUserException.h
+END
